@@ -33,7 +33,7 @@ I currently work on Vision-Language Model Pre-training in Tencent.
 
   - Develop models for Personalized E-Commerce Search, Machine Reading Comprehension, and Self-Supervised Pretraining in Language Technology Lab of Alibaba DAMO Academy.
 
-- **Staff Engineer and Tech Lead,** _ **Baidu** _, Shanghai, China. 2011.04 – 2016.04
+- **Staff Engineer and Tech Lead,** **Baidu**, Shanghai, China. 2011.04 – 2016.04
 
   - Apply Machine Learning, Knowledge Graph Mining, Nature Language Processing and Ad Click Prediction to improve the performance of branding advertising in Search Advertising Team.
 
@@ -47,24 +47,19 @@ I currently work on Vision-Language Model Pre-training in Tencent.
   - Linux, LaTeX, SQL
 
 ## **Selected Projects**
-
 - **Question Answering based on Machine Reading Comprehension** Alibaba DAMO Academy
-
- - Designed a hierarchical attention network for reading comprehension style question answering.
- - Demo (SLQA+): [https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
+  - Designed a hierarchical attention network for reading comprehension style question answering.
+  - Demo (SLQA+): [https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
 
 - **Alibaba&#39;s Collection of Encoder-**** D ****ecoders** **(****AliceMind).** Alibaba DAMO Academy
-
- - Provides pre-trained encoder-decoder models and its related optimization techniques.
- - Official Website: [https://nlp.aliyun.com/portal#/alice](https://nlp.aliyun.com/portal#/alice)
+  - Provides pre-trained encoder-decoder models and its related optimization techniques.
+  - Official Website: [https://nlp.aliyun.com/portal#/alice](https://nlp.aliyun.com/portal#/alice)
 
 - **Microsoft DeepDev** Microsoft Research
+  - Sharing latest innovations and deep learning models aimed at software engineering tasks.
+  - Preview:https://www.microsoft.com/en-us/research/project/microsoft-deepdev/
 
- - Sharing latest innovations and deep learning models aimed at software engineering tasks.
- - Preview:https://www.microsoft.com/en-us/research/project/microsoft-deepdev/
-
-- ## **Selected**  **Achievements**
-
+## **Selected**  **Achievements**
  - SOTA results in code-to-code translation on the CodeXGLUE organized by Microsoft 2021.08
  - Ranked 1st on the CodeSearchNet Leaderboard by GitHub 2020.06
  - Received 1st place in TREC&#39;19 Deep Learning Track sponsored by the NIST 2019.11
