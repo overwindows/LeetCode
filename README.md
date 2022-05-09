@@ -49,15 +49,15 @@ I currently work on Vision-Language Model Pre-training in Tencent.
 ## **Selected Projects**
 - **Question Answering based on Machine Reading Comprehension** Alibaba DAMO Academy
   - Designed a hierarchical attention network for reading comprehension style question answering.
-  - Demo (SLQA+): [https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
+  - [Demo (SLQA+)](https://rajpurkar.github.io/SQuAD-explorer/explore/1.1/dev/)
 
-- **Alibaba&#39;s Collection of Encoder-**** D ****ecoders** **(****AliceMind).** Alibaba DAMO Academy
+- **Alibaba&#39;s Collection of Encoder-Decoders (AliceMind)** Alibaba DAMO Academy
   - Provides pre-trained encoder-decoder models and its related optimization techniques.
-  - Official Website: [https://nlp.aliyun.com/portal#/alice](https://nlp.aliyun.com/portal#/alice)
+  - [Official Website](https://nlp.aliyun.com/portal#/alice)
 
 - **Microsoft DeepDev** Microsoft Research
   - Sharing latest innovations and deep learning models aimed at software engineering tasks.
-  - Preview:https://www.microsoft.com/en-us/research/project/microsoft-deepdev/
+  - [Preview Website](https://www.microsoft.com/en-us/research/project/microsoft-deepdev/)
 
 ## **Selected**  **Achievements**
  - SOTA results in code-to-code translation on the CodeXGLUE organized by Microsoft 2021.08
