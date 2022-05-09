@@ -2,6 +2,7 @@
 
 [**GitHub**](https://github.com/overwindows)
 [**Citations**](https://scholar.google.com/citations?user=ZvGfyVUAAAAJ&amp;hl=en)
+[**Linkedin**](https://www.linkedin.com/in/chen-wu-27954a19/)
 
 ## **Research Interests**
 
@@ -110,10 +111,10 @@ ACM CIKM 2019/11/03
 [_Boundless_](https://www.sohu.com/a/334282445_175828)：Zhejiang Lab International Youth Talents Forum 2019/08/16
 
 - An Introduction to Machine Reading Comprehension for Question Answering,
-[_Alibaba Apsara Conference-Intelligent NLP Technology Session_](https://yunqi.aliyun.com/2018/hangzhou/schedule?day=2&amp;performanceId=51) 2018/09/20
+[_Alibaba Apsara Conference - Intelligent NLP Technology Session_](https://yunqi.aliyun.com/2018/hangzhou/schedule?day=2&amp;performanceId=51) 2018/09/20
 
 - Machine Reading Comprehension Technology and Applications,
-[_Alibaba Apsara Conference - NLP Technology Session](https://yunqi.aliyun.com/2017/hangzhou/meeting?day=day3&amp;theme=all&amp;meeting=detail1309) 2017/10/13
+[Alibaba Apsara Conference - NLP Technology Session](https://yunqi.aliyun.com/2017/hangzhou/meeting?day=day3&amp;theme=all&amp;meeting=detail1309) 2017/10/13
 
 - Session-aware Information Embedding for E-commerce Product Recommendation,
 ACM CIKM 2017/11/06
