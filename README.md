@@ -136,7 +136,7 @@ CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum) 2016/06/18
 
 ## **Patent**
 
-- Method and device for determining target page as well as equipment
+- [Method and device for determining target page as well as equipment](https://patents.google.com/patent/CN104063394B/zh?oq=CN104063394B)
   - _Invertors: Chen Wu, Xiao Jiang_
   - _Publication Number: CN 104063394 B_
 
