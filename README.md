@@ -1,7 +1,7 @@
 # **Chen Wu**
 
-[**GitHub**](https://github.com/overwindows)
-[**Citations**](https://scholar.google.com/citations?user=ZvGfyVUAAAAJ&amp;hl=en)
+[**GitHub**](https://github.com/overwindows) |
+[**Citations**](https://scholar.google.com/citations?user=ZvGfyVUAAAAJ&amp;hl=en) |
 [**Linkedin**](https://www.linkedin.com/in/chen-wu-27954a19/)
 
 ## **Research Interests**
@@ -60,7 +60,7 @@ I currently work on Vision-Language Model Pre-training in Tencent.
   - Sharing latest innovations and deep learning models aimed at software engineering tasks.
   - [Preview Website](https://www.microsoft.com/en-us/research/project/microsoft-deepdev/)
 
-## **Selected**  **Achievements**
+## **Selected Achievements**
  - SOTA results in code-to-code translation on the CodeXGLUE organized by Microsoft 2021.08
  - Ranked 1st on the CodeSearchNet Leaderboard by GitHub 2020.06
  - Received 1st place in TREC&#39;19 Deep Learning Track sponsored by the NIST 2019.11
@@ -108,10 +108,10 @@ I currently work on Vision-Language Model Pre-training in Tencent.
 ACM CIKM 2019/11/03
 
 - Large Scale Neural Network Language Models,
-[_Boundless_](https://www.sohu.com/a/334282445_175828)：Zhejiang Lab International Youth Talents Forum 2019/08/16
+[Boundless](https://www.sohu.com/a/334282445_175828)：Zhejiang Lab International Youth Talents Forum 2019/08/16
 
 - An Introduction to Machine Reading Comprehension for Question Answering,
-[_Alibaba Apsara Conference - Intelligent NLP Technology Session_](https://yunqi.aliyun.com/2018/hangzhou/schedule?day=2&amp;performanceId=51) 2018/09/20
+[Alibaba Apsara Conference - Intelligent NLP Technology Session](https://yunqi.aliyun.com/2018/hangzhou/schedule?day=2&amp;performanceId=51) 2018/09/20
 
 - Machine Reading Comprehension Technology and Applications,
 [Alibaba Apsara Conference - NLP Technology Session](https://yunqi.aliyun.com/2017/hangzhou/meeting?day=day3&amp;theme=all&amp;meeting=detail1309) 2017/10/13
@@ -128,7 +128,7 @@ ACM CIKM 2016/10/24
 - Introduction to Query Auto-Completion,
 CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum) 2016/06/18
 
-## **Program**  **Committees**
+## **Program Committees**
 
 - IJCAI 2022 (The 31st International Joint Conference on Artificial Intelligence)
 - IJCAI 2021 (The 30th International Joint Conference on Artificial Intelligence)
