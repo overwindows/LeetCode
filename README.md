@@ -129,7 +129,7 @@ ACM CIKM 2016/10/24
 [CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum)](https://www.ccf.org.cn/c/2016-06-08/609579.shtml) 2016/06/18
 
 ## **Program Committees**
-
+- COLING 2022 (The 29th International Conference on Computational Linguistics)
 - IJCAI 2022 (The 31st International Joint Conference on Artificial Intelligence)
 - IJCAI 2021 (The 30th International Joint Conference on Artificial Intelligence)
 - COLING 2020 (The 28th International Conference on Computational Linguistics)
