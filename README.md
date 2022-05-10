@@ -108,7 +108,7 @@ I currently work on Vision-Language Model Pre-training in Tencent.
 ACM CIKM 2019/11/03
 
 - Large Scale Neural Network Language Models,
-[Boundless](https://www.sohu.com/a/334282445_175828)：Zhejiang Lab International Youth Talents Forum 2019/08/16
+[Boundless：Zhejiang Lab International Youth Talents Forum](https://www.sohu.com/a/334282445_175828) 2019/08/16
 
 - An Introduction to Machine Reading Comprehension for Question Answering,
 [Alibaba Apsara Conference - Intelligent NLP Technology Session](https://yunqi.aliyun.com/2018/hangzhou/schedule?day=2&amp;performanceId=51) 2018/09/20
@@ -126,7 +126,7 @@ ACM CIKM 2016/10/24
 [QCon Software Development Conference](http://2016.qconshanghai.com/speakers/202232/) 2016/10/20
 
 - Introduction to Query Auto-Completion,
-CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum) 2016/06/18
+[CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum)](https://www.ccf.org.cn/c/2016-06-08/609579.shtml) 2016/06/18
 
 ## **Program Committees**
 
