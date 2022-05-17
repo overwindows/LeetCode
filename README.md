@@ -68,7 +68,7 @@ I currently work on Vision-Language Model Pre-training in Tencent.
  - Ranked 1st on the MS MARCO 2.0 Leaderboard hosted by Microsoft 2019.06
  - Ranked 1st on the DuReader 2.0 Leaderboard hosted by Baidu 2018.10
  - Ranked No.1 in the Q&amp;A session of the TriviaQA hosted by University of Washington 2018.02
- - For the first time in the history, accurate machine reading technology surpassed human reading results in the famous SQUAD Machine Reading Comprehension Competition organized by Stanford University. 2018.01
+ - For the first time in the history, accurate machine reading technology surpassed human reading results in the famous SQuAD Machine Reading Comprehension Competition organized by Stanford University. 2018.01
  - Champion of the ACM CIKM Cup 2016 Competition 2016.10
 
 ## **Selected Media Coverage**
