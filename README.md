@@ -12,7 +12,7 @@ I currently work on Vision-Language Model Pre-training in Tencent.
 
 ## **Education**
 
-- **Tongji University** , Shanghai, China
+- **Tongji University**, Shanghai, China
 
   - Ph.D., Computer Science, 2011
 
