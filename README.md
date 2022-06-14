@@ -8,7 +8,7 @@
 
 My research interests include Natural Language Processing, Information Retrieval, MultiModal Machine Learning, and the application of Deep Learning to Software Engineering tasks.
 
-I currently work on Vision-Language Model Pre-training in Tencent.
+I currently work on Vision-Language Model Pre-training in Tencent YouTu Lab.
 
 ## **Education**
 
