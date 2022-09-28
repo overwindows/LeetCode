@@ -22,7 +22,7 @@ I currently work on Vision-Language Model Pre-training in Tencent YouTu Lab.
 
 ## **Experience**
 
-- **Principal Research Scientist and Tech Lead,**   **Tencent** , Shanghai, China. 2021.09 – Present
+- **Principal Research Scientist and Tech Lead,**   **Tencent** , Shanghai, China. 2021.09 – 2022.10
 
   - Working on Large-scale Vision-Language Model Pretraining in YouTu Lab of Tencent Cloud.
 
