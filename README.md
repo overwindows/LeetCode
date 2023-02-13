@@ -129,6 +129,7 @@ ACM CIKM 2016/10/24
 [CCF YOCSEF (CCF Young Computer Scientists &amp; Engineers Forum)](https://www.ccf.org.cn/c/2016-06-08/609579.shtml) 2016/06/18
 
 ## **Program Committees**
+- ACL 2023 (The 61st Annual Meeting of the Association for Computational Linguistics)
 - AAAI 2023 (The Thirty-Seventh AAAI Conference on Artificial Intelligence)
 - COLING 2022 (The 29th International Conference on Computational Linguistics)
 - IJCAI 2022 (The 31st International Joint Conference on Artificial Intelligence)
