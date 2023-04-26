@@ -21,22 +21,22 @@ My research interests include Natural Language Processing, Information Retrieval
   - B.S., Computer Science, 2003
 
 ## **Experience**
-- **Principal Data and Applied Scientist,**   **Microsoft** , Suzhou, China. 2022.10 – Present
+- **Principal Data and Applied Scientist**,   **Microsoft**, Suzhou, China. 2022.10 – Present
   - Leverage LLM in AIOps
 
-- **Principal Research Scientist and Tech Lead,**   **Tencent** , Shanghai, China. 2021.09 – 2022.10
+- **Principal Research Scientist and Tech Lead**,   **Tencent**, Shanghai, China. 2021.09 – 2022.10
 
   - Working on Large-scale Vision-Language Model Pretraining in YouTu Lab of Tencent Cloud.
 
-- **Senior Research Scientist and Manager,**  **Microsoft** , Shanghai, China. 2020.01 – 2021.09
+- **Senior Research Scientist and Manager**,  **Microsoft**, Shanghai, China. 2020.01 – 2021.09
 
   - Conducting research in Semantic Code Search, Code Translation, Patch Generation, and Performance Bug Detection in Data&amp;AI Research Team of Microsoft Developer Division.
 
-- **Staff Engineer and Manager,** **Alibaba**, Hangzhou, China. 2016.04 – 2020.01
+- **Staff Engineer and Manager**, **Alibaba**, Hangzhou, China. 2016.04 – 2020.01
 
   - Develop models for Personalized E-Commerce Search, Machine Reading Comprehension, and Self-Supervised Pretraining in Language Technology Lab of Alibaba DAMO Academy.
 
-- **Staff Engineer and Tech Lead,** **Baidu**, Shanghai, China. 2011.04 – 2016.04
+- **Staff Engineer and Tech Lead**, **Baidu**, Shanghai, China. 2011.04 – 2016.04
 
   - Apply Machine Learning, Knowledge Graph Mining, Nature Language Processing and Ad Click Prediction to improve the performance of branding advertising in Search Advertising Team.
 
