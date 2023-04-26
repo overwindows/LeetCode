@@ -8,7 +8,7 @@
 
 My research interests include Natural Language Processing, Information Retrieval, Multimodal Machine Learning, and the application of Deep Learning to Software Engineering tasks.
 
-~~I currently work on Vision-Language Model Pre-training in Tencent YouTu Lab.~~
+<!---~~I currently work on Vision-Language Model Pre-training in Tencent YouTu Lab.~~-->
 
 ## **Education**
 
@@ -21,6 +21,8 @@ My research interests include Natural Language Processing, Information Retrieval
   - B.S., Computer Science, 2003
 
 ## **Experience**
+- **Principal Data and Applied Scientist,**   **Microsoft** , Suzhou, China. 2022.10 – Present
+  - Leverage LLM in AIOps
 
 - **Principal Research Scientist and Tech Lead,**   **Tencent** , Shanghai, China. 2021.09 – 2022.10
 
