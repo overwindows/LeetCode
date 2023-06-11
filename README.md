@@ -29,7 +29,7 @@ My research interests include Natural Language Processing, Information Retrieval
 
   - Working on Large-scale Vision-Language Model Pretraining in YouTu Lab of Tencent Cloud.
 
-- **Senior Research Scientist and Manager**,  **Microsoft**, Shanghai, China. 2020.01 – 2021.09
+- **Lead Research Scientist and Manager**,  **Microsoft**, Shanghai, China. 2020.01 – 2021.09
 
   - Conducting research in Semantic Code Search, Code Translation, Patch Generation, and Performance Bug Detection in Data&amp;AI Research Team of Microsoft Developer Division.
 
